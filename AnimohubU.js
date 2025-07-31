@@ -4,5 +4,5 @@
   "apk_url": "https://animohubapk.com/",
   "update_message": "• Fix Some Bugs",
   "is_mandatory": true,
-  "show_later": true
+  "show_later": false
 }
