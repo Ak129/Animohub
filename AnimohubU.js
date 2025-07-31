@@ -1,6 +1,8 @@
 {
-  "title": "❗NOTICE❗",
-  "dis": "Must Join Our Telegram Channel To Get a Latest Updates",
-  "link": "https://telegram.dog/animohub",
-  "show": true
+  "version_code": 7,
+  "version_name": "2.9",
+  "apk_url": "https://animohubapk.com/",
+  "update_message": "• Fix Some Bugs",
+  "is_mandatory": true,
+  "show_later": true
 }
