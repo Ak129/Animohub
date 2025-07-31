@@ -3,6 +3,6 @@
   "version_name": "2.9",
   "apk_url": "https://animohubapk.com/",
   "update_message": "• Fix Some Bugs",
-  "is_mandatory": true,
-  "show_later": false
+  "is_mandatory": false,
+  "show_later": true
 }
