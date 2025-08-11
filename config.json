@@ -10,5 +10,10 @@
   "com.vlv.aravali": {
     "latestVersion": 22,
     "downloadUrl": "https://github.com/Ak129/Animohub/raw/refs/heads/main/kukufm.zip"
-  }
+    },
+  "com.vlv.aravali.reels": {
+    "latestVersion": 22,
+    "downloadUrl": "https://github.com/Ak129/Animohub/raw/refs/heads/main/kukutv.zip"  
+  }  
+  
 }
