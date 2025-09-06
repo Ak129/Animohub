@@ -1,19 +1,80 @@
 {
-  "com.seekho.android": {
-    "latestVersion": 16,
-    "downloadUrl": "https://github.com/Ak129/Animohub/raw/refs/heads/main/seekho.zip"
-  },
-  "com.viewlift.hoichoi": {
-    "latestVersion": 9,
-    "downloadUrl": "https://github.com/Ak129/Animohub/raw/refs/heads/main/hoichoi.zip"
-  },
-  "com.vlv.aravali": {
-    "latestVersion": 22,
-    "downloadUrl": "https://github.com/Ak129/Animohub/raw/refs/heads/main/kukufm.zip"
+    "com.sonyliv": {
+        "latestVersion": 1,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/Sonyliv-1.bin"
     },
-  "com.vlv.aravali.reels": {
-    "latestVersion": 22,
-    "downloadUrl": "https://github.com/Ak129/Animohub/raw/refs/heads/main/kukutv.zip"  
-  }  
-  
+    "com.vlv.aravali.reels": {
+        "latestVersion": 4,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/KUKU-TV-4-68b6b5894e10c.bin"
+    },
+    "com.apple.android.music": {
+        "latestVersion": 1,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/Apple-Music-1.bin"
+    },
+    "com.viewlift.hoichoi": {
+        "latestVersion": 3,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/HoiChoi-3-68b9dc37b9bfe.bin"
+    },
+    "com.vlv.aravali.lovenasha": {
+        "latestVersion": 3,
+        "mode": "manual",
+        "files": [
+            {
+                "id": 6,
+                "name": "\u26a1 SERVER 1",
+                "url": "https://get.techbloggers.in/APKTHUGS/uploads/Storizz-3-68ba90f77eaf8.bin"
+            }
+        ]
+    },
+    "com.vlv.aravali": {
+        "latestVersion": 10,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/Kuku-FM-7-68b6b5410901d.bin"
+    },
+    "com.discoveryplus.mobile.android": {
+        "latestVersion": 1,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/Discovery-1-68aaf8ab8773c.bin"
+    },
+    "playboxtv.mobile.app.in": {
+        "latestVersion": 11,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/Playbox-1-68ba5dc22ee38.bin"
+    },
+    "com.hungama.myplay.activity": {
+        "latestVersion": 1,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/Hungama-1-68ac3a7edbb1b.bin"
+    },
+    "in.mohalla.quicktv": {
+        "latestVersion": 2,
+        "mode": "manual",
+        "files": [
+            {
+                "id": 31,
+                "name": "\ud83d\ude80 Server 1",
+                "url": "https://get.techbloggers.in/APKTHUGS/uploads/QuickTV-2-68baa65e1f9bd.bin"
+            }
+        ]
+    },
+    "com.seekho.android": {
+        "latestVersion": 1,
+        "mode": "manual",
+        "files": [
+            {
+                "id": 25,
+                "name": "\u2022 LogIn From Server 1",
+                "url": "https://get.techbloggers.in/APKTHUGS/uploads/Seekho-1-68aed74107088.bin"
+            }
+        ]
+    },
+    "com.vlv.aravali.upskillHindi": {
+        "latestVersion": 5040802,
+        "mode": "automatic",
+        "downloadUrl": "https://get.techbloggers.in/APKTHUGS/uploads/Guru-5040802-68b99ed930ae4.bin"
+    }
 }
